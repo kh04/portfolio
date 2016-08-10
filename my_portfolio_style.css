@@ -1,0 +1,41 @@
+body {
+background-image: url("https://i.imgur.com/A7rtCin.jpg");
+background-size: 100%;
+background-repeat: no-repeat;
+}
+
+h1 {
+	text-align: center;
+}
+
+#project_list {
+	width: 25%;
+	position: absolute;
+	left: 10%;
+	top: 13%;
+	font-size: x-large;
+
+}
+
+#projects {
+	position: absolute;
+	top: 115%;
+}
+#screenshots {
+	position: absolute;
+	top: 13%;
+	left: 55%;
+}
+
+#carousel-example-generic {
+	position: absolute;
+	top: 25%;
+	width: 35%;
+	left: 55%;
+}
+
+.peopleCarouselImg img {
+  width: auto;
+  height: 225px;
+  max-height: 225px;
+}

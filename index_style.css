@@ -1,0 +1,53 @@
+body {
+background-image: url("https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg");
+background-size: 100%;
+background-repeat: no-repeat;
+}
+
+h1 {
+    left: 0;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align:center;
+    color:white;
+    font-size: 500%;
+}
+
+.button {
+	-webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 12px;
+    border: 2px solid white;
+    transition-duration: 0.4s;
+    color: white;
+    position: absolute;
+    margin:auto;
+    margin-left: 50%;
+    top: 60%;
+}
+
+.button:hover {
+	background-color:#009900; /*#4d79ff*/
+    border: #009900;
+    color: white;
+}
+
+#about_me_button{
+	margin-left: 40%;
+}
+
+
+#my_portfolio_button {
+	margin-left: 55%;
+}
+
+#test {
+    background-color: red;
+}

@@ -1,0 +1,35 @@
+body {
+	background-image: url("https://i.imgur.com/XMtX0aH.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	color:white;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+#text { 
+	position: absolute;
+	left: 12%;
+	top: 15%;
+	width: 25%;
+	font-size: 150%;
+	background-color: #0033cc;
+	opacity: 0.6;
+ }
+
+p {
+	padding:10%;
+}
+
+img{
+	border-radius: 50%;
+	width: 35%;
+	position: absolute;
+	top: 15%;
+	right: 12%;
+	opacity: 0.8;
+
+}
